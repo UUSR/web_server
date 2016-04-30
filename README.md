@@ -1,5 +1,4 @@
 # web_server
-web_server
 =============
 
 Light C++ library for create servers
