@@ -1,0 +1,27 @@
+# Compiled Object files 
+*.slo 
+*.lo 
+*.o
+
+# Compiled Dynamic libraries 
+*.so 
+*.dylib 
+
+# Compiled Static libraries 
+*.lai 
+*.la 
+*.a 
+*.opensdf 
+*.sdf 
+*.suo 
+*.exe 
+*.ilk 
+*.suo 
+*.pdb 
+*.tlog 
+*.obj 
+*.lastbuildstate 
+*.idb 
+*.sdf 
+ssl_test.sdf 
+web_server/Debug/ssl_test.log 
